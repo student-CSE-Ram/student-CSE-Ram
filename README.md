@@ -1,5 +1,10 @@
 # 💫 About Me:
-Projects based on MERN Stack<br>Some Good MERN Stack Project<br>Getting more MERN Stack Project<br>Advance MERN  
+Backend-focused MERN Stack Developer passionate about building scalable web applications and clean backend architectures.
+
+💻 Tech Stack: MongoDB, Express.js, React.js, Node.js  
+⚡ Currently Learning: Advanced Backend Development, System Design & DSA  
+🚀 Building real-world projects with authentication, APIs, and secure systems  
+📚 Consistent learner focused on improving problem-solving and engineering skills
 
 
 ## 🌐 Socials:
